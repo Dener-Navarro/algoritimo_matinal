@@ -1,0 +1,41 @@
+Algoritmo: Rotina Matinal
+
+Passo 1: Despertar
+   1.1 - Abrir os olhos.
+  
+Passo 2: Levantar da Cama
+   2.1 - Sentar-se na cama.
+   2.2 - Colocar os pés no chão e levantar-se lentamente.
+
+Passo 3: Higiene Pessoal
+   3.1 - Ir ao banheiro.
+   3.2 - Escovar os dentes.
+   3.3 - Lavar o rosto com água fria.
+
+Passo 4: Vestir-se
+   4.1 - Escolher as roupas do dia.
+   4.2 - Vestir-se.
+
+Passo 5: Café da Manhã
+   5.1 - Preparar o café da manhã.
+   5.2 - Alimentar-se.
+
+Passo 6: Planejamento do Dia
+   6.1 - Fazer uma lista de tarefas para o dia.
+   6.2 - Revisar compromissos e horários.
+
+
+Passo 10: Saída de Casa (SIM)
+   10.1 - Sair de casa no horário planejado.
+
+Passo 11: NÃO
+   11.1 - Verificar o planejamento e executar o planejado.
+
+Passo 12: Fechamento
+   12.1 - Revisar comida e água dos pets.
+   12.2 - Fechar as janelas.
+   12.3 - Trancar a porta.
+   12.4 - Sair.
+   
+
+Fim do Algoritmo
